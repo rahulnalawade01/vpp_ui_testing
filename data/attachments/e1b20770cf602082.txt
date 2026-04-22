@@ -1,1 +1,0 @@
-vpp_submissionperiod from API: Per Event
