@@ -1,0 +1,1 @@
+vpp_energyrate from API: 10.0

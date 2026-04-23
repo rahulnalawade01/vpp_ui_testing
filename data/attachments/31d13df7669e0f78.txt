@@ -1,0 +1,1 @@
+Selected max number of events per year: 50
