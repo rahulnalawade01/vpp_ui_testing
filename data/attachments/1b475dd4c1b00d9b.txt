@@ -1,1 +1,0 @@
-vpp_capacityrate from API: 0.5

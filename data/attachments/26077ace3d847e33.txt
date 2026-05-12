@@ -1,1 +1,0 @@
-Verified all mandatory error messages are visible when trying to create VPP program without details

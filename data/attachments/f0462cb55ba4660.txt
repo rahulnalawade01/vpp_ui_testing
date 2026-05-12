@@ -1,1 +1,0 @@
-Capacity rate mandatory error message is visible
