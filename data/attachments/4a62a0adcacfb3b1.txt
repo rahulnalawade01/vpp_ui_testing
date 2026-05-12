@@ -1,0 +1,1 @@
+Clicked Close button on success popup

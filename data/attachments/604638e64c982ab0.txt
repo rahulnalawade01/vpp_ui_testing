@@ -1,1 +1,0 @@
-Successfully vpp program created for Chariot operator with type VPP Export to Grid and dispatch group OEM
