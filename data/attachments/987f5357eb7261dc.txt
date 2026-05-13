@@ -1,0 +1,1 @@
+Event end time mandatory error message is visible

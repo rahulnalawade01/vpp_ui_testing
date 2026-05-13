@@ -1,0 +1,1 @@
+Successfully vpp program created for QCells operator with type Energy Arbitrage and dispatch group Load Zone
