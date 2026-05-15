@@ -1,1 +1,0 @@
-State mandatory error message is visible
