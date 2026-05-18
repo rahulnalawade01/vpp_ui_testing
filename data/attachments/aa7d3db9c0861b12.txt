@@ -1,0 +1,1 @@
+vpp_measurementinterval from API: 15-min
