@@ -1,0 +1,1 @@
+Active months mandatory error message is visible

@@ -1,0 +1,1 @@
+Measurement point mandatory error message is visible
