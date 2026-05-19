@@ -1,0 +1,1 @@
+Event start time mandatory error message is visible

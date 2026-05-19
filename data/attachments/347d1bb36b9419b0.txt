@@ -1,0 +1,1 @@
+Telemetry data submission mandatory error message is visible
