@@ -1,0 +1,1 @@
+Successfully handled 'Stay signed in?' prompt.
