@@ -1,1 +1,0 @@
-Program name mandatory error message is visible
