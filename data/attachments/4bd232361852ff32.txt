@@ -1,1 +1,0 @@
-Program validity period mandatory error message is visible
