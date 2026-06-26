@@ -1,1 +1,1 @@
-[{"values":["Playwright + TypeScript"],"name":"framework"},{"values":["UI,API"],"name":"test_types"},{"values":["true"],"name":"ci"}]
+[{"values":["Playwright + TypeScript"],"name":"Framework"},{"values":["UI,API"],"name":"Test_Types"},{"values":["true"],"name":"CI"},{"values":["qa"],"name":"Environment"}]
