@@ -1,0 +1,9 @@
+2026-06-26 09:41:47 [INFO] Navigated to login page
+2026-06-26 09:41:50 [INFO] Successfully logged in with provided credentials
+2026-06-26 09:41:50 [INFO] Successfully logged in with role: default
+2026-06-26 09:42:03 [INFO] Clicked on User Avatar
+2026-06-26 09:42:03 [INFO] Clicked Logout button
+2026-06-26 09:42:04 [INFO] Clicked first account logout option
+2026-06-26 09:42:04 [INFO] Successful logout message visibility: true
+2026-06-26 09:42:04 [INFO] Successfully logged out from the application
+2026-06-26 09:42:04 [INFO] Clicked Logout button
