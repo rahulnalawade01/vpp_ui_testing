@@ -1,0 +1,9 @@
+{
+  "method": "DELETE",
+  "url": "/registry/v1/vpp/programs/d2833385-bfde-4cc2-a6d5-93a275e1e185",
+  "headers": {
+    "accept": "application/json",
+    "Ocp-Apim-Subscription-Key": "6cdb11d4abdd46038174b3f8b8e6e272",
+    "Authorization": "[REDACTED]"
+  }
+}

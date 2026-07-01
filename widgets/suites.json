@@ -1,1 +1,1 @@
-{"total":1,"items":[{"uid":"f5c42a5c2345c6a266ba7f33f399b273","name":"chromium-login","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
+{"total":2,"items":[{"uid":"d41122d5daa6165d5a62f0b79a3b711f","name":"chromium-default","statistic":{"failed":0,"broken":0,"skipped":0,"passed":7,"unknown":0,"total":7}},{"uid":"f5c42a5c2345c6a266ba7f33f399b273","name":"chromium-login","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}

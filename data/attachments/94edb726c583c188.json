@@ -1,0 +1,11 @@
+{
+  "status": 204,
+  "statusText": "",
+  "url": "https://asset-registry.qa.es.qcells.com/registry/v1/vpp/programs/d2833385-bfde-4cc2-a6d5-93a275e1e185",
+  "headers": {
+    "date": "Wed, 01 Jul 2026 04:56:37 GMT",
+    "content-type": "application/json",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000; includeSubDomains"
+  }
+}

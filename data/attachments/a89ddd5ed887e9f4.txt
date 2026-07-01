@@ -1,0 +1,1 @@
+Selected performance optimization strategy: Baseline Optimization

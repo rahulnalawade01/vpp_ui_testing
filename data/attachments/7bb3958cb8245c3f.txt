@@ -1,0 +1,10 @@
+2026-07-01 04:59:07 [INFO] Navigated to login page
+Using credentials for role: default { email: 'rahul.nalawade@qcells.com', password: 'Macbookpro@2026' }
+2026-07-01 04:59:10 [INFO] Successfully logged in with provided credentials
+2026-07-01 04:59:10 [INFO] Successfully logged in with role: default
+2026-07-01 04:59:35 [INFO] Clicked on User Avatar
+2026-07-01 04:59:35 [INFO] Clicked Logout button
+2026-07-01 04:59:36 [INFO] Clicked first account logout option
+2026-07-01 04:59:37 [INFO] Successful logout message visibility: true
+2026-07-01 04:59:37 [INFO] Successfully logged out from the application
+2026-07-01 04:59:37 [INFO] Clicked Logout button

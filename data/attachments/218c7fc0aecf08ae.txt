@@ -1,0 +1,1 @@
+Clicked OK button on success popup
